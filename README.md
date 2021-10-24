@@ -1,6 +1,6 @@
 # World of Recipes
 
-Projekt u sklopu kolegija Web aplikacije
+*Projekt u sklopu kolegija Web aplikacije
 
 Korisničko ime i lozinka za prijavu:
   + korisničko ime: fipu
