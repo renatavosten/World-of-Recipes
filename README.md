@@ -15,9 +15,9 @@ Korisničko ime i lozinka za prijavu:
   Screenshotovi aplikacije :
 
    ![image](https://user-images.githubusercontent.com/57946609/169805227-0095d088-531e-4f3d-8402-2f6cdb90245e.png)
-   ![image](https://user-images.githubusercontent.com/57946609/169803240-3182bfe5-12e5-42ee-8979-93be648e7465.png)
-   ![image](https://user-images.githubusercontent.com/57946609/169803431-5977e26f-b45c-48ba-aa88-2fc2f95d075f.png)
-   ![image](https://user-images.githubusercontent.com/57946609/169803856-97c252c7-1736-43a7-812b-de3dff29b2da.png)
-   ![image](https://user-images.githubusercontent.com/57946609/169803932-99de4dfc-8af4-4855-9c2b-78941617aff5.png)
-   ![image](https://user-images.githubusercontent.com/57946609/169804088-7973db2f-7e62-4ece-8549-c13646221c17.png)
+   ![image](https://user-images.githubusercontent.com/57946609/169805308-c2e61021-d80a-4ccb-8d37-f5316473cced.png)
+   ![image](https://user-images.githubusercontent.com/57946609/169805351-662a5109-ff4a-480d-b463-ad370d60fa59.png)
+   ![image](https://user-images.githubusercontent.com/57946609/169805409-d3a07db4-b3b7-4bec-9e1a-d71ba7cf2e6b.png)
+   ![image](https://user-images.githubusercontent.com/57946609/169805478-a47f4846-3e5d-48b6-bad4-5f17fc52c9ba.png)
+   
 
