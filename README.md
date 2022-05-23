@@ -14,7 +14,7 @@ Korisničko ime i lozinka za prijavu:
   
   Screenshotovi aplikacije :
 
-   ![image](https://user-images.githubusercontent.com/57946609/169802860-917b7c06-be99-45e0-a893-eac4516528e6.png)
+   ![image](https://user-images.githubusercontent.com/57946609/169805227-0095d088-531e-4f3d-8402-2f6cdb90245e.png)
    ![image](https://user-images.githubusercontent.com/57946609/169803240-3182bfe5-12e5-42ee-8979-93be648e7465.png)
    ![image](https://user-images.githubusercontent.com/57946609/169803431-5977e26f-b45c-48ba-aa88-2fc2f95d075f.png)
    ![image](https://user-images.githubusercontent.com/57946609/169803856-97c252c7-1736-43a7-812b-de3dff29b2da.png)
